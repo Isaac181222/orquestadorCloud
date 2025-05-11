@@ -17,3 +17,6 @@ Este microservicio orquestador combina datos de usuarios, libros y préstamos pa
 ```bash
 docker build -t orquestador .
 docker run -p 8000:8000 orquestador
+
+
+.![image](https://github.com/user-attachments/assets/27806011-ec37-4f96-ba91-c13dec552acf)
